@@ -10,7 +10,7 @@ The purpose of the analysis is to provide the client with the greater understand
 
 ## Analysis and Challenges
 
-_Before getting to the analysis, let’s see what formulas were implemented to the dataset, Kickstarter_Challenge.xle and major changes were made._ 
+_Before getting to the analysis, let’s see what formulas were implemented to the dataset, [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx) and major changes were made._ 
 
 _-	Two columns (“Parent Category” and Subcategory”) were created, and the value was retrieved from column “Category and Subcategory”  were created,_
 
