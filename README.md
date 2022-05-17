@@ -70,16 +70,18 @@ The chart above shows that as goals rise the success rate goes down.  Due to out
 
 ### Challenges and Difficulties Encountered
 
-The main challenge encountered is sorting, organizing and visualizing the dataset.
+The challenges encountered are sorting, organizing and visualizing the dataset. It took lots of time to change the format of the data. Also, lots of formulas were used. And, charts were difficult to analyze because of outliers, which shows diffirent picture than it is in reality.
 
 ## Results
 
-- To conclude it is essential to state that the best month to launch the campaign is May followed by June. 
+As the purpose of the project was to provide the client with the understanding of when and whith what amount of funding goal to launch the campaign, the following recommendations are proposed.
 
-- Also, it is highly recommended not to launch the campaign in automn and winter.
+- It is important to state that the best month to launch the campaign is May. June is the second best choice. 
 
-- It is essential to consider that for higher probability of success to set a funding goal not more that $5,000.
+- It is highly recommended not to launch the campaign in automn and winter.
 
-- The main limitation of the dataset is that it does not have recent data. 
+- To get the highest probability of success, it is better to set a funding goal of not more that $5,000.
 
-- "Box and Whisker 1" and "Descriptive Statistics 1" used above provide better understanding of to what extend charts shows reliable data. 
+- The main limitation of the dataset is that it does not have recent data. If there was data for the last years, probably the outcome of the analysis would be different.  
+
+- To provide better understanding of to what extend charts shows reliable data "Box and Whisker 1" and "Descriptive Statistics 1" used.
