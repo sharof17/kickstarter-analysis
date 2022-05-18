@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project is carried out at the request of our client, Louise, who is considering launching Kikstarter campaign to support her play “Fever”. The analysis is performed to determine if there are any specific factors related to the success of croudfunding campaigns in theater category on Kickstarter. The source, for the analysis, is the data set of Kickstarter campaigns (over 4000 campaigns) for the period from 2009 till 2017, which is condensed, sorted and visualized through Pivot Tables and Pivot Charts on MS Excel.
+This project is carried out at the request of our client, Louise, who is considering launching Kikstarter campaign to support her play, “Fever”. The analysis is performed to determine if there are any specific factors related to the success of croudfunding campaigns in theater category on Kickstarter. The source, for the analysis, is the data set of Kickstarter campaigns (over 4000 campaigns) for the period from 2009 till 2017, which is condensed, sorted and visualized through Pivot Tables and Pivot Charts on MS Excel.
 
 ### Purpose
 
