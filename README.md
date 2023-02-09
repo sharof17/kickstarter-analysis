@@ -6,7 +6,7 @@ This project is carried out at the request of our client, Louise, who is conside
 
 ### Purpose
 
-The purpose of the analysis is to provide the client with the greater understanding of how different campaigns fared in relation their launch dates and their funding goals, so that she could set her campaign to mirror other successful campaigns in the same category.
+The purpose of the analysis is to provide the client with the greater understanding of how different campaigns fared in relation to their launch dates and their funding goals, so that she could set her campaign to mirror other successful campaigns in the same category.
 
 ## Analysis and Challenges
 
